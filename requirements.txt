@@ -1,0 +1,8 @@
+sentence-transformers
+scikit-learn
+numpy
+pandas
+pdfplumber
+python-docx
+sqlite-utils
+faiss-cpu
